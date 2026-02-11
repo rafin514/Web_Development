@@ -5,9 +5,12 @@
 
 ---
 
-### 🚀 About Me  
-I’m a finance professional with a growing interest in web development.  
-I enjoy learning step by step and building practical skills with consistency.
+### 🚀 About Me
+
+Finance and Accounts Executive with an academic background in Economics and a growing interest in web development.  
+Currently focused on building strong fundamentals in front-end technologies while leveraging analytical and problem-solving skills gained from finance and accounting experience.  
+
+Motivated, detail-oriented, and committed to continuous learning and professional growth.
 
 ---
 
