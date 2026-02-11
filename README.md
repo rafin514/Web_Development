@@ -42,3 +42,10 @@ I enjoy learning step by step and building practical skills with consistency.
 ---
 
 ⭐ *Learning something new every day*
+---
+
+### 📊 GitHub Stats
+
+![Rafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafin514&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafin514&layout=compact)
