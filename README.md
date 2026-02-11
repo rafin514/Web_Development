@@ -49,9 +49,9 @@ Motivated, detail-oriented, and committed to continuous learning and professiona
 
 ### 📊 GitHub Stats
 
-! [Rafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafin514&show_icons=true&theme=default)
+[Rafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafin514&show_icons=true&theme=default)
 
-! [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafin514&layout=compact)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafin514&layout=compact)
 ---
 
 ### 🧰 Tech Stack
